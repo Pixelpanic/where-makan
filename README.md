@@ -1,4 +1,5 @@
 # Where-Makan
+**Makan** _to eat_ in Malay, also a common Singlish word.
 a Slack bot using nodeJS and API warpper
 
 * Download [bot.js]
