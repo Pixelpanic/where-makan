@@ -12,4 +12,4 @@ Run ```node bot,js```
 
 Done!
 
-**Strickly for fun only**
+**for fun only, but you're welcome to contribute**
